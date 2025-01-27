@@ -1,7 +1,9 @@
 ### 如何设置 VS Code 以进行数据科学工作
 
 ---
-English version can be found [here](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS.md)
+
+#### English version can be found [here](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS.md)
+
 ## **1. 安装 VS Code**
 1. 从[这里](https://code.visualstudio.com/)下载并安装 VS Code。
 2. 从[这里](https://docs.conda.io/en/latest/miniconda.html)下载并安装 Miniconda。
