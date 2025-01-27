@@ -28,6 +28,7 @@
 
 ## **3. 在 VS Code 中运行 Jupyter Notebook 并启用并排代码编辑器**
 现在可以在 VS Code 中运行 Jupyter Notebook，并使用并排代码编辑器进行代码和输出查看。这类似于 Matlab 的 Live Editor。
+**注意** 你需要安装 `ipykernel`，可以在 conda 环境中使用 `pip install ipykernel` 或 `conda install ipykernel` 安装。
 
 ### **运行步骤**：
 1. 在想运行的代码单元开头添加以下标记：

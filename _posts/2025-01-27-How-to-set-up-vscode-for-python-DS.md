@@ -25,7 +25,7 @@ in the beginning of the cell you want to run. This will allow you to run the cel
 ### Special notes 
 - If you want to run the entire notebook, you can press `Ctrl + Shift + P` and type `Run All Cells`. This will run all the cells in the notebook.
 - If you are confused about the interpreter, you can click on the bottom right corner of the screen where it says `Python 3.8.8 64-bit ('base': conda)` and select the interpreter you want to use. This will allow you to use different interpreters for different notebooks. However, the interpreter you used for the notebook will be on the right top corner of the side-by-side code editor. You can change the interpreter by clicking on the interpreter name.
-
+- You need to install `ipykernel` using `pip install ipykernel` in your conda environment to use the side-by-side code editor. You can also install `ipykernel` using `conda install ipykernel` in your conda environment.
 ## Others
 - Choose a formatter, check the guide [here](https://code.visualstudio.com/docs/python/formatting). I use `black formatter` as my formatter. Remember to change default formatter by pressing `Ctrl + Shift + P` and typing `Preference:Open Setting (UI)`. Search `formatter` and change the default formatter to `Black Formatter`.
 To let the formatter automatically format the code every time you save the file, you can check the `Format on Save` option in the settings. Press `Ctrl + Shift + P` and type `Preference:Open Setting (UI)`. Search `format on save` and check the box.
