@@ -1,4 +1,4 @@
-# How I set up my VS code for Data Science
+# How I set up my VS code for Python and Data Science 
 
 ---
 
