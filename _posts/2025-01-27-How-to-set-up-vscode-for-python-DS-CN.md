@@ -1,4 +1,4 @@
-### 我是如何设置 VS Code - Python & Data Science 
+### 我是如何设置 VS Code - Python/Data Science 
 
 ---
 
