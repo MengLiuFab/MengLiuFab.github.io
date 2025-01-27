@@ -2,7 +2,7 @@
 
 ---
 
-#### English version can be found [here](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS.md)
+#### English version can be found [here](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS.html)
 
 ## **1. 安装 VS Code**
 1. 从[这里](https://code.visualstudio.com/)下载并安装 VS Code。
