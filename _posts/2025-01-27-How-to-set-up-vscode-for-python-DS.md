@@ -1,4 +1,7 @@
 # How I set up my VS code for Data Science
+中文版请点击[这里](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS-CN.html)
+
+---
 
 ## 1. Install VS code
 - Download and install VS code from [here](https://code.visualstudio.com/)
@@ -27,4 +30,5 @@ in the beginning of the cell you want to run. This will allow you to run the cel
 To let the formatter automatically format the code every time you save the file, you can check the `Format on Save` option in the settings. Press `Ctrl + Shift + P` and type `Preference:Open Setting (UI)`. Search `format on save` and check the box.
 
 - Choose a linter, check the guide [here](https://code.visualstudio.com/docs/python/linting). I use `pylint` as my linter. 
-  - Use terminal in VS code. You can open the terminal by pressing `` Ctrl + ` ``. This will open the terminal in the bottom of the screen. You can also open the terminal by clicking on the **Terminal** tab on the top of the screen. This will allow you to run the terminal in the VS code. Use `conda` to install packages, create environments, and manage environments in the terminal as you need. Remember to restart or simply close the side by side code editor and open it again to see the changes you made in the terminal.
+  
+- Use terminal in VS code. You can open the terminal by pressing `` Ctrl + ` ``. This will open the terminal in the bottom of the screen. You can also open the terminal by clicking on the **Terminal** tab on the top of the screen. This will allow you to run the terminal in the VS code. Use `conda` to install packages, create environments, and manage environments in the terminal as you need. Remember to restart or simply close the side by side code editor and open it again to see the changes you made in the terminal. If you changed the denpendent packages, you need to restart the kernel to see the changes.
