@@ -1,7 +1,8 @@
 # How I set up my VS code for Data Science
-中文版请点击[这里](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS-CN.html)
 
 ---
+
+中文版请点击[这里](https://mengliufab.github.io/2025/01/27/How-to-set-up-vscode-for-python-DS-CN.html)
 
 ## 1. Install VS code
 - Download and install VS code from [here](https://code.visualstudio.com/)
